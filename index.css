@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+/* 
+btn-outline-dark
+font-family: 'Island Moments', cursive;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Orelega One', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Island Moments', cursive;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Oswald', sans-serif; */
+
+
+
+@media screen and (max-width:768px){
+    h1{
+        font-family: 'Island Moments', cursive;
+    
+        color: aqua;
+    }
+    p, h6{
+       color: rgb(127, 161, 190);
+       font-family: 'Oswald', sans-serif;
+       
+    }
+    .navbar-brand{
+        
+        font-family: 'Island Moments', cursive;
+    }
+    
+    .sec1-img img{
+        height: 100%;
+        width: auto;
+        border-radius: 7%;
+   }
+   
+    
+    .sec1{
+        
+        background-color: #1B1A17;
+        padding-bottom: 15px;
+        text-align: center;
+    }
+    .sec1-img{
+        height: 600px;
+        
+        
+        
+    }
+    .sec1-txt{
+        position: initial;
+        padding: 5%;
+        letter-spacing: 2px;
+        text-align: center;
+        
+    }
+    .sec2{
+        background-color: #711A75;
+        text-align: center;
+        padding-top: 10px;
+    }
+    .sec2-con{
+        padding: 1px;
+    }
+    .about-title{
+     font-family: 'Lobster', cursive;;
+    }
+    .sec3{
+        background-color: #F10086;
+        text-align: center;
+        padding-top: 10px;
+
+    }
+    .card{
+        margin: auto;
+    }
+    .img1{
+        height: 400px;
+        width: auto;
+    }
+    .card-title{
+        font-family: 'Oswald', sans-serif;
+        color: #711A75;
+    }
+    .btn{
+        width: 50%;
+    }
+    .sec3-t{
+        color: #20121a;
+        
+    }
+    .sec3-con{
+        padding-bottom: 10px;
+    }
+    #cour{
+        color: #2b182c;
+    }
+    .sec4{
+        background-color: #F582A7;
+        text-align: center;
+        padding-top: 10px;
+
+    }
+    .sec5{
+        background-color: #8293f5;
+        text-align: center;
+        padding-top: 10px;
+
+    }
+    .sec5-t{
+        color: #69424e;
+    }
+    .sec6{
+        background-color: #81267d;
+        text-align: center;
+        padding-top: 10px;
+
+    }
+    .sec6-t{
+        color: #5fa549;
+    }
+    #img4{
+        height: 450px;
+    }
+    .sec7{
+        background-color: #040405;
+        text-align: center;
+        padding-top: 10px;
+
+    }
+    .sec7-t{
+        color: #69424e;
+    }
+    .sec8{
+        background-color: #111150;
+        text-align: center;
+        padding-top: 10px;
+
+    }
+    .sec8-t{
+        color: #d8275c;
+    }
+}
